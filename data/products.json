@@ -1,0 +1,14 @@
+[
+    {
+        "subCategoryId": 1,
+        "subCategoryName": "Avengers",
+        "img": "https://epic-rumble.web.app/assets/gallery1-86450f31.jpg",
+        "price": 10.99,
+        "rating": 4.5,
+        "title": "Groot",
+        "availableQuantity": 20,
+        "sellerName": "Marvel",
+        "detailDescription": "Groot is a Flora colossus from Planet X, the capital of the branch worlds. The Flora colossi are tree-like beings whose language is almost impossible to understand due to the stiffness of their larynxes, causing their speech to sound like they are repeating the phrase 'I am Groot'.",
+        "sellerEmail": "marvel@email.com"
+    }
+]

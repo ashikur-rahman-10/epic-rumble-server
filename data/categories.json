@@ -1,0 +1,14 @@
+[
+    {
+        "subCategoryId": 1,
+        "subCategoryName": "Avengers"
+    },
+    {
+        "subCategoryId": 2,
+        "subCategoryName": "Star Wars"
+    },
+    {
+        "subCategoryId": 3,
+        "subCategoryName": "Transformers"
+    }
+]

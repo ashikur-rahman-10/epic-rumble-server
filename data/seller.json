@@ -1,0 +1,26 @@
+[
+    {
+        "photoURL": "https://img.freepik.com/premium-photo/confident-business-man-with-arms-crossed_264197-1027.jpg?w=360",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "address": "123 Main St, City, Country"
+    },
+    {
+        "photoURL": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?w=996&t=st=1684533189~exp=1684533789~hmac=fee0871a39085e89c1f9736852facddc70d29d88c7b97e42b745b5570ced59b1",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "address": "456 Park Ave, City, Country"
+    },
+    {
+        "photoURL": "https://img.freepik.com/free-photo/prosperous-businessman-keeps-hands-crossed-has-satisfied-expression_273609-16711.jpg?w=996&t=st=1684533331~exp=1684533931~hmac=cde2ae8652fd9a704fb86cf078574c8c3d8e02aef19ef926e51d3174e20b07a5",
+        "name": "Robert Johnson",
+        "email": "robert.johnson@example.com",
+        "address": "789 Elm St, City, Country"
+    },
+    {
+        "photoURL": "https://img.freepik.com/free-photo/portrait-photo_144627-46580.jpg?w=360&t=st=1684533242~exp=1684533842~hmac=c0c14abbcbe3b4cbff121793348d09fce52944ca425419474c0a2f0ce045473f",
+        "name": "Alice Williams",
+        "email": "alice.williams@example.com",
+        "address": "789 Oak St, City, Country"
+    }
+]

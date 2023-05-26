@@ -1,0 +1,50 @@
+[
+    {
+        "customerName": "Emma Watson",
+        "photo": "https://img.freepik.com/free-photo/portrait-beautiful-face-young-smiling-woman-with-long-brown-hair-red-dress_186202-7992.jpg?w=360&t=st=1684529709~exp=1684530309~hmac=02b7997f87b8b0d451ca91e527aae9f7148ce7a6967d4cb8fc287eea32f1de5c",
+        "email": "emma.watson@example.com",
+        "comments": "Great service! Highly recommended.",
+        "ratings": 4.5,
+        "reviewDate": "2023-05-01"
+    },
+    {
+        "customerName": "Jane Smith",
+        "photo": "https://funylife.in/wp-content/uploads/2023/04/53_Cute-Girl-Pic-WWW.FUNYLIFE.IN_-1-1536x1536.jpg",
+        "email": "jane.smith@example.com",
+        "comments": "Excellent quality products and fast shipping.",
+        "ratings": 4.8,
+        "reviewDate": "2023-04-28"
+    },
+    {
+        "customerName": "Bob Johnson",
+        "photo": "https://cdn.pixabay.com/photo/2021/06/04/10/29/man-6309454_960_720.jpg",
+        "email": "bob.johnson@example.com",
+        "comments": "Friendly customer support and easy returns.",
+        "ratings": 4.2,
+        "reviewDate": "2023-05-03"
+    },
+    {
+        "customerName": "Alice Williams",
+        "photo": "https://funylife.in/wp-content/uploads/2023/04/64_Cute-Girl-Pic-WWW.FUNYLIFE.IN_-1-1536x1536.jpg",
+        "email": "alice.williams@example.com",
+        "comments": "Prompt delivery and accurate product descriptions.",
+        "ratings": 4.6,
+        "reviewDate": "2023-05-05"
+    },
+    {
+        "customerName": "Michael Brown",
+        "photo": "https://media.newyorker.com/photos/59096f648b51cf59fc422387/master/w_1920,c_limit/150810_r26823.jpg",
+        "email": "michael.brown@example.com",
+        "comments": "Impressive selection of products. Will buy again!",
+        "ratings": 4.7,
+        "reviewDate": "2023-05-02"
+    },
+    {
+        "customerName": "Emily Davis",
+        "photo": "https://funylife.in/wp-content/uploads/2023/04/31_Cute-Girl-Pic-WWW.FUNYLIFE.IN_-1-1536x1536.jpg",
+        "email": "emily.davis@example.com",
+        "comments": "The best online shopping experience I've had.",
+        "ratings": 4.9,
+        "reviewDate": "2023-04-30"
+    }
+]
